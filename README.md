@@ -3,10 +3,9 @@
 # Hi! I'm Ariel 👋
 ### **Backend & Cloud/DevOps Automation Engineer | Python Specialist**
 
-*Construyo backends escalables, automatizo infraestructura multi-cloud y optimizo flujos de despliegue continuo (CI/CD).*
+*Building scalable backends, automating multi-cloud infrastructure, and optimizing CI/CD pipelines.*
 
-[![English](https://shields.io)](#-english-version)
-[![Español](https://shields.io)](#-versión-en-español)
+<img src="https://shields.io" alt="English Version" /> <a href="#-versión-en-español"><img src="https://shields.io" alt="Versión en Español" /></a>
 
 </div>
 
@@ -76,10 +75,12 @@ If you are looking for an engineer capable of writing solid backend code while a
 
 ---
 
-<details>
+<details id="-versión-en-español">
 <summary><h2>🇪🇸 Versión en Español (Clic para desplegar)</h2></summary>
 
 ### 👨‍💻 Sobre mí
+*Construyo backends escalables, automatizo infraestructura multi-cloud y optimizo flujos de despliegue continuo (CI/CD).*
+
 Soy estudiante de tercer año de Ingeniería en Desarrollo de Software y un apasionado por la **infraestructura como código (IaC)**, la **automatización de servidores** y los **backends de alto rendimiento**. Me especializo en conectar el desarrollo de lógica de negocio en **Python** y **Node.js** con la administración avanzada de entornos cloud y sistemas operativos **Linux**.
 
 Mi enfoque está en dominar el ciclo de vida de los sistemas en entornos de producción (DevOps) con la meta fija de especializarme en la orquestación, observabilidad y despliegue de Inteligencia Artificial a gran escala (**MLOps**).
@@ -101,7 +102,7 @@ Mi enfoque está en dominar el ciclo de vida de los sistemas en entornos de prod
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Infraestructura, Cloud & Automatización**
+**Infraestructura, Cloud & Automation**
 - **Sistemas Operativos:** Linux (Ubuntu/Debian Server), Bash Scripting avanzado.
 - **Computación Cloud:** Oracle Cloud Infrastructure (OCI), AWS (Laboratorios EC2/S3), Microsoft Azure básicos.
 - **Contenedores & Orquestación:** Docker (Contenerización de microservicios, Docker Compose).
