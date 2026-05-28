@@ -5,7 +5,7 @@
 
 *Construyo backends escalables, automatizo infraestructura multi-cloud y optimizo flujos de despliegue continuo (CI/CD).*
 
-[![English](https://shields.io)](#-english-version) 
+[![English](https://shields.io)](#-english-version)
 [![Español](https://shields.io)](#-versión-en-español)
 
 </div>
