@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi! I'm Ariel 👋
-### **Backend & Cloud/DevOps Automation Engineer | Python Specialist**
+### **Backend & Cloud/DevOps Automation Engineer | AWS & Python Specialist**
 
-*Building scalable backends, automating multi-cloud infrastructure, and optimizing CI/CD pipelines.*
+*Building scalable backends, automating cloud infrastructure, and optimizing CI/CD pipelines.*
 
 🌐 **[English Version](#-english-version)** &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 **[Versión en Español](#-versión-en-español)**
 
@@ -14,12 +14,12 @@
 <summary id="-english-version"><h2>🇺🇸 English Version</h2></summary>
 
 ### 👨‍💻 About Me
-I am a third-year Software Engineering student passionate about **Infrastructure as Code (IaC)**, **server automation**, and **high-performance backends**. I specialize in bridging backend business logic using **Python** and **Node.js** with advanced **Linux** system administration and cloud environments.
+I am a third-year Software Engineering student passionate about **Infrastructure as Code (IaC)**, **cloud automation**, and **high-performance backends**. I specialize in bridging backend business logic using **Python** and **Node.js** with advanced **Linux** system administration and scalable cloud environments, focusing primarily on **Amazon Web Services (AWS)**.
 
 My current focus is mastering the software development lifecycle in production environments (DevOps), with the ultimate goal of specializing in Large-Scale Artificial Intelligence orchestration, observability, and deployment (**MLOps**).
 
-- ☁️ Managing and provisioning instances across **Oracle Cloud Infrastructure (OCI)** and **Linux VPS** servers.
-- 🛠️ Designing automation and continuous integration labs focused on **AWS**, **Azure**, and **Docker**.
+- ☁️ Designing, provisioning, and securing scalable infrastructure on **AWS** (EC2, S3, IAM) and **Microsoft Azure**.
+- 🛠️ Building advanced automation labs using **Docker**, **Bash**, and **GitHub Actions** for multi-cloud deployments.
 - 🧠 Strong believer that the best server is one that is provisioned, monitored, and recovered 100% automatically via code.
 
 ---
@@ -27,8 +27,8 @@ My current focus is mastering the software development lifecycle in production e
 ### 🚀 Infrastructure Projects & Labs
 *Currently building and documenting the ecosystem behind my technical stack:*
 
-*   **[OCI Automated Infrastructure]** ➔ Advanced **Bash & Python** scripts for automated provisioning, SSH security hardening, and resource auditing on Oracle Cloud VPS.
-*   **[Multi-Cloud CI/CD Pipeline]** ➔ Continuous integration and deployment pipelines using **GitHub Actions**, automating containerized **Docker** APIs to **AWS** EC2 and **Azure App Services**.
+*   **[AWS Automated Infrastructure Lab]** ➔ Advanced **Bash & Python** scripts using AWS CLI for automated provisioning of EC2 instances, S3 storage management, and infrastructure auditing.
+*   **[Multi-Cloud CI/CD Pipeline]** ➔ Continuous integration and deployment pipelines using **GitHub Actions**, automating containerized **Docker** APIs directly to **AWS** environments and **Azure App Services**.
 *   **[Automated ML Pipeline (MLOps Lab)]** ➔ A laboratory for experiment tracking, Machine Learning model packaging, and data versioning using **MLflow**, **Docker**, and Python (`scikit-learn`).
 
 ---
@@ -36,23 +36,23 @@ My current focus is mastering the software development lifecycle in production e
 ### 🛠️ Tech Stack & Tools
 
 **Infrastructure, Cloud & Automation**
-- **Operating Systems:** Linux (Ubuntu/Debian Server), Advanced Bash Scripting.
-- **Cloud Computing:** Oracle Cloud Infrastructure (OCI), AWS (EC2/S3 labs), Microsoft Azure basics.
+- **Cloud Computing:** Amazon Web Services (AWS - Core Focus: EC2, S3, IAM, CloudWatch), Microsoft Azure basics, Oracle Cloud Infrastructure (OCI).
+- **Operating Systems:** Linux (Ubuntu/Debian Server), Advanced Bash Scripting for cloud automation.
 - **Containers & Orchestration:** Docker (Microservices containerization, Docker Compose).
-- **Process Automation:** Cron-based backup systems, server resource monitoring, and task automation scripts.
+- **Process Automation:** Cron-based cloud backup systems, server resource monitoring, and automated deployment tasks.
 
 **Backend & Real-Time Systems**
-- **Python:** FastAPI, Flask, Django (Focused on automation, robust REST APIs, and data processing).
+- **Python:** FastAPI, Flask, Django (Focused on cloud automation, robust REST APIs, and data processing).
 - **Node.js:** Express (JavaScript / TypeScript).
 - **Architecture:** Scalable API design, concurrency handling, and backend performance optimization.
 
 **Databases & Persistence**
-- **SQL (Advanced):** MySQL, MariaDB (Schema design, complex query optimization, and data consistency).
+- **SQL (Advanced):** MySQL, MariaDB (Schema design, complex query optimization, and cloud database connectivity).
 - **NoSQL:** MongoDB, Firebase.
 
 **Quality Control & Tools**
 - Git & GitHub (Advanced workflows based on Gitflow, branching, and Pull Requests).
-- Server Security Hardening (SSH keys, Secure Environment Variables, Basic Firewalls).
+- Cloud Security Hardening (IAM policies, SSH key pairs, secure Environment Variables, Firewalls/Security Groups).
 - Unit testing and strict backend data validation.
 
 ---
@@ -78,14 +78,14 @@ If you are looking for an engineer capable of writing solid backend code while a
 <summary id="-versión-en-español"><h2>🇪🇸 Versión en Español</h2></summary>
 
 ### 👨‍💻 Sobre mí
-*Construyo backends escalables, automatizo infraestructura multi-cloud y optimizo flujos de despliegue continuo (CI/CD).*
+*Construyo backends escalables, automatizo infraestructura cloud y optimizo flujos de despliegue continuo (CI/CD).*
 
-Soy estudiante de tercer año de Ingeniería en Desarrollo de Software y un apasionado por la **infraestructura como código (IaC)**, la **automatización de servidores** y los **backends de alto rendimiento**. Me especializo en conectar el desarrollo de lógica de negocio en **Python** y **Node.js** con la administración avanzada de entornos cloud y sistemas operativos **Linux**.
+Soy estudiante de tercer año de Ingeniería en Desarrollo de Software y un apasionado por la **infraestructura como código (IaC)**, la **automatización cloud** y los **backends de alto rendimiento**. Me especializo en conectar el desarrollo de lógica de negocio en **Python** y **Node.js** con la administración avanzada de entornos cloud, enfocándome principalmente en el ecosistema de **Amazon Web Services (AWS)** y sistemas operativos **Linux**.
 
 Mi enfoque está en dominar el ciclo de vida de los sistemas en entornos de producción (DevOps) con la meta fija de especializarme en la orquestación, observabilidad y despliegue de Inteligencia Artificial a gran escala (**MLOps**).
 
-- ☁️ Administrando instancias en entornos de **Oracle Cloud Infrastructure (OCI)** y servidores **VPS Linux**.
-- 🛠️ Diseñando laboratorios de automatización e integración continua enfocados en **AWS**, **Azure** y **Docker**.
+- ☁️ Diseñando, aprovisionando y protegiendo infraestructura escalable en **AWS** (EC2, S3, IAM) y **Microsoft Azure**.
+- 🛠️ Diseñando laboratorios avanzados de automatización e integración continua con **Docker**, **Bash** y **GitHub Actions**.
 - 🧠 Fiel creyente de que el mejor servidor es el que se provisiona, monitorea y recupera de forma 100% automática por código.
 
 ---
@@ -93,8 +93,8 @@ Mi enfoque está en dominar el ciclo de vida de los sistemas en entornos de prod
 ### 🚀 Proyectos de Infraestructura & Laboratorios
 *Actualmente construyendo y documentando el ecosistema que respalda mi stack técnico:*
 
-*   **[OCI Automated Infrastructure]** ➔ Scripts avanzados en **Bash y Python** para el aprovisionamiento, gestión de seguridad por SSH y auditoría automática de VPS en Oracle Cloud.
-*   **[Multi-Cloud CI/CD Pipeline]** ➔ Tuberías de integración y despliegue continuo en **GitHub Actions** automatizando el ciclo de vida de APIs contenerizadas en **Docker** hacia instancias EC2 de **AWS** y **Azure App Services**.
+*   **[AWS Automated Infrastructure Lab]** ➔ Scripts avanzados en **Bash y Python** utilizando AWS CLI para el aprovisionamiento automatizado, gestión de seguridad y auditoría automática de recursos en AWS (EC2/S3).
+*   **[Multi-Cloud CI/CD Pipeline]** ➔ Tuberías de integración y despliegue continuo en **GitHub Actions** automatizando el ciclo de vida de APIs contenerizadas en **Docker** directamente hacia instancias de **AWS** y **Azure App Services**.
 *   **[Automated ML Pipeline (MLOps Lab)]** ➔ Laboratorio básico de tracking de experimentos, empaquetado de modelos de Machine Learning y versionado de datos utilizando **MLflow**, **Docker** y Python (`scikit-learn`).
 
 ---
@@ -102,23 +102,23 @@ Mi enfoque está en dominar el ciclo de vida de los sistemas en entornos de prod
 ### 🛠️ Tecnologías y Herramientas
 
 **Infraestructura, Cloud & Automation**
-- **Sistemas Operativos:** Linux (Ubuntu/Debian Server), Bash Scripting avanzado.
-- **Computación Cloud:** Oracle Cloud Infrastructure (OCI), AWS (Laboratorios EC2/S3), Microsoft Azure básicos.
+- **Computación Cloud:** Amazon Web Services (AWS - Foco Principal: EC2, S3, IAM, CloudWatch), Microsoft Azure básicos, Oracle Cloud Infrastructure (OCI).
+- **Sistemas Operativos:** Linux (Ubuntu/Debian Server), Bash Scripting avanzado enfocado en automatización cloud.
 - **Contenedores & Orquestación:** Docker (Contenerización de microservicios, Docker Compose).
-- **Automatización de Procesos:** Scripts de automatización de tareas del sistema, respaldos cron y monitoreo de recursos.
+- **Automatización de Procesos:** Scripts de automatización de tareas, respaldos programados en la nube y monitoreo automatizado de recursos.
 
 **Backend & Sistemas en Tiempo Real**
-- **Python:** FastAPI, Flask, Django (Especializado en automatización, APIs REST robustas y procesamiento de datos).
+- **Python:** FastAPI, Flask, Django (Especializado en automatización cloud, APIs REST robustas y procesamiento de datos).
 - **Node.js:** Express (JavaScript / TypeScript).
 - **Arquitectura:** Diseño de APIs escalables, manejo de concurrencia y optimización de rendimiento en backend.
 
 **Bases de Datos & Persistencia**
-- **SQL (Manejo Avanzado):** MySQL, MariaDB (Diseño de esquemas, optimización de consultas complejas y consistencia de datos).
+- **SQL (Manejo Avanzado):** MySQL, MariaDB (Diseño de esquemas, optimización de consultas complejas y conectividad en la nube).
 - **NoSQL:** MongoDB, Firebase.
 
 **Calidad, Control & Herramientas**
 - Git & GitHub (Flujos avanzados basados en Gitflow, ramas y Pull Requests).
-- Gestión de seguridad en servidores (Llaves SSH, Variables de Entorno Seguras, Firewalls básicos).
+- Gestión de seguridad cloud (Políticas IAM, llaves SSH, Variables de Entorno Seguras, Grupos de Seguridad/Firewalls).
 - Testing básico de backend y validación estricta de datos.
 
 ---
