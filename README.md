@@ -5,13 +5,13 @@
 
 *Building scalable backends, automating multi-cloud infrastructure, and optimizing CI/CD pipelines.*
 
-🌐 **[English Version](#ishere)** &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 **[Versión en Español](#-versión-en-español)**
+🌐 **[English Version](#-english-version)** &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 **[Versión en Español](#-versión-en-español)**
 
 </div>
 
 ---
 
-## 🇺🇸 English Version
+<summary id="-english-version"><h2>🇺🇸 English Version</h2></summary>
 
 ### 👨‍💻 About Me
 I am a third-year Software Engineering student passionate about **Infrastructure as Code (IaC)**, **server automation**, and **high-performance backends**. I specialize in bridging backend business logic using **Python** and **Node.js** with advanced **Linux** system administration and cloud environments.
