@@ -2,9 +2,9 @@
 
 # ¡Hola! Soy Ariel 👋
 
-**Full Stack Developer | Backend & Real-Time Systems | Python | Node.js**
+**Backend & Cloud/DevOps Automation Engineer | Python Specialist**
 
-Construyo aplicaciones web y móviles completas, escalables y de alto rendimiento.
+Construyo backends escalables, automatizo infraestructura en la nube y optimizo flujos de despliegue continuo (CI/CD).
 
 </div>
 
@@ -12,70 +12,58 @@ Construyo aplicaciones web y móviles completas, escalables y de alto rendimient
 
 ### 👨‍💻 Sobre mí
 
-Apasionado por el desarrollo de software completo (end-to-end). Me especializo en el desarrollo de **backends eficientes**, **APIs escalables** y **sistemas en tiempo real**, utilizando **Python** y **Node.js**, junto con el desarrollo de **aplicaciones móviles** y el manejo de bases de datos **SQL** y **NoSQL**.
+Soy estudiante de tercer año de Ingeniería en Desarrollo de Software y un apasionado por la **infraestructura como código**, la **automatización de servidores** y los **backends de alto rendimiento**. Me especializo en unir el desarrollo de lógica de negocio en **Python** y **Node.js** con la administración avanzada de entornos cloud y sistemas operativos **Linux**.
 
-Me enfoco en escribir código limpio, mantenible y en entregar soluciones que resuelvan problemas reales, priorizando rendimiento y estabilidad.
+Mi enfoque actual está en dominar el ciclo de vida de los sistemas en producción (DevOps) con la meta fija de especializarme en la orquestación y despliegue de Inteligencia Artificial a gran escala (**MLOps**).
 
-- 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
-- 💡 Me motiva construir aplicaciones útiles y bien arquitecturadas.
-- 📫 Abierto a colaboraciones y oportunidades interesantes.
+- ☁️ Experimentando y desplegando activamente en entornos de **Oracle Cloud Infrastructure (OCI)** y servidores **VPS**.
+- 🛠️ Automatizando todo lo que se mueva mediante scripts robustos en **Bash** y **Python**.
+- 🧠 Fiel creyente de que el mejor servidor es el que se administra, monitorea y recupera de forma 100% automática.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Backend**
-- Python (Flask, FastAPI, Django)
-- Node.js + Express (JavaScript / TypeScript)
-- Desarrollo de APIs REST y lógica de negocio
+**Infraestructura, Cloud & Automatización**
+- **Sistemas Operativos:** Linux (Ubuntu/Debian Server), Bash Scripting avanzado.
+- **Computación Cloud:** Oracle Cloud Infrastructure (OCI), Administración de Servidores VPS independientes.
+- **Contenedores & Orquestación:** Docker (Contenerización de aplicaciones, Docker Compose).
+- **Automatización de Procesos:** Scripts de automatización de tareas, respaldos y monitoreo automatizado de sistemas.
 
-**Arquitectura & Backend Avanzado**
-- Diseño de APIs escalables
-- Manejo de concurrencia y lógica en tiempo real
-- Optimización de rendimiento en backend
+**Backend & Sistemas en Tiempo Real**
+- **Python:** FastAPI, Flask, Django (Especializado en automatización, APIs REST robustas y procesamiento de datos).
+- **Node.js:** Express (JavaScript / TypeScript).
+- **Arquitectura:** Diseño de APIs escalables, manejo de concurrencia y optimización de rendimiento en backend.
 
-**Frontend & Mobile**
-- Desarrollo de aplicaciones móviles (Flutter o React Native)
-- HTML, CSS, JavaScript / TypeScript
+**Bases de Datos & Persistencia**
+- **SQL (Manejo Avanzado):** MySQL, MariaDB (Diseño de esquemas, optimización de consultas complejos y consistencia de datos).
+- **NoSQL:** MongoDB, Firebase.
 
-**Bases de Datos**
-- SQL: MySQL, MariaDB  
-- NoSQL: MongoDB, Firebase  
-- Diseño de esquemas y persistencia de datos  
-- Optimización de consultas y manejo eficiente de datos
-
-**Calidad y Testing**
-- Código limpio, estructurado y mantenible  
-- Validación de datos en backend  
-- Manejo de errores y estabilidad de aplicaciones  
-- Testing básico (unitario e integración)
-
-**Otras**
-- Git & GitHub
-- Integración de APIs y servicios
-- Buenas prácticas de desarrollo
+**Calidad, Control & Herramientas**
+- Git & GitHub (Flujos avanzados basados en Gitflow y Pull Requests).
+- Gestión de seguridad en servidores (Llaves SSH, Variables de Entorno Seguras, Permisos de Sistema).
+- Testing básico de backend y validación estricta de datos.
 
 ---
 
 ### 🌍 Idiomas
 
-- Inglés nivel B2 (lectura técnica, documentación y escritura)
+- **Inglés - Nivel B2:** Fluido en lectura técnica, documentación, escritura y comunicación en entornos profesionales globales.
 
 ---
 
-### 🧠 Filosofía de desarrollo
+### 🧠 Filosofía de Desarrollo
 
-Me enfoco en construir soluciones **simples, eficientes y escalables**, evitando complejidad innecesaria y priorizando código limpio y mantenible.
+Me enfoco en construir sistemas **simples, eficientes y altamente automatizados**. El software debe ser limpio y mantenible, pero la infraestructura que lo sostiene debe ser indestructible y escalable.
 
 ---
 
-### 📫 Contáctame
+### 📫 Contáctame / Conectemos
 
-Si necesitas un **backend sólido**, **APIs eficientes** o una **aplicación completa bien estructurada**, no dudes en contactarme.
+Si estás buscando un ingeniero capaz de escribir backend sólido y, al mismo tiempo, automatizar y desplegar la infraestructura en la nube donde corre, hablemos.
 
 - **Email:** [arieldevlabs@gmail.com](mailto:arieldevlabs@gmail.com)
 
 ---
 
-¡Gracias por visitar mi perfil!  
-Si tienes un proyecto interesante o quieres colaborar, escríbeme. 🚀
+¡Gracias por visitar mi centro de operaciones! El código limpio y los servidores estables son mi prioridad. 🚀
