@@ -75,8 +75,7 @@ If you are looking for an engineer capable of writing solid backend code while a
 
 ---
 
-<details id="-versión-en-español">
-<summary><h2>🇪🇸 Versión en Español (Clic para desplegar)</h2></summary>
+<summary id="-versión-en-español"><h2>🇪🇸 Versión en Español (Clic para desplegar)</h2></summary>
 
 ### 👨‍💻 Sobre mí
 *Construyo backends escalables, automatizo infraestructura multi-cloud y optimizo flujos de despliegue continuo (CI/CD).*
@@ -131,8 +130,6 @@ Me enfoco en construir sistemas **simples, eficientes y altamente automatizados*
 
 ### 📫 Contáctame
 - **Email:** [arieldevlabs@gmail.com](mailto:arieldevlabs@gmail.com)
-
-</details>
 
 ---
 ¡Gracias por visitar mi centro de operaciones! El código limpio y los servidores estables son mi prioridad. 🚀
