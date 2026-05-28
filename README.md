@@ -5,7 +5,8 @@
 
 *Building scalable backends, automating multi-cloud infrastructure, and optimizing CI/CD pipelines.*
 
-![English](https://shields.io) [![Spanish](https://shields.io)](#-versión-en-español)
+![English](https://img.shields.io/badge/:English)
+
 
 </div>
 
